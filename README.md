@@ -1,8 +1,8 @@
-# React + Vite
+# Welcome to MediLink
+Bridging gaps in the healthcare sector.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Developed by team P0TAT0, MediLink is a website that utilises technology like AppScript and Google Calendar to bridge the gap between the students and the medical sector. 
 
-Currently, two official plugins are available:
+The current file contains the front-end part of the user profile link. 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Prototype: https://considerate-elephant-l73tx1.mystrikingly.com/
